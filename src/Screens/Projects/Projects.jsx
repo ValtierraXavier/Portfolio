@@ -8,6 +8,7 @@ export default function Projects() {
   return (
     <div className='pageContainer'>
     <h1 className='content'>Projects</h1>
+    <div className='spaceDiv'></div>
     </div>
   )
 }
