@@ -1,12 +1,12 @@
 .Nav_Bar{
     display: flex;
     flex-flow:row nowrap;
-    margin-left: 25%;
+    margin-left: 33%;
     margin-top: 2.5%;
     background-color: rgba(10, 10, 10, .6);
     border-radius: 30px;
-    width: 50%;
-    height: 65px;
+    width: 35%;
+    height: 7%;
     justify-content: space-around;
     align-items: center;
     position:fixed;
