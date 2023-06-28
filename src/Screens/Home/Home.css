@@ -1,14 +1,31 @@
-.content{
-    width: 30%;
-    font-size: 40px;
-    margin-left: 10%;
-    margin-top: 5%;
+#homePageContainer{
+    padding-top: 7rem;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-content: space-around;
 }
 
-#content2{
-    margin-left: 40%;
+.iconDiv{
+    border-radius: 25px;
+    margin-right: .5rem;
+    margin-left: 9rem;
 }
 
-#content3{
-    margin-left: 60%;
+
+
+#content1{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: space-around;
+    padding: .3rem;
+    margin-left: .5rem;
+    font-size: xx-large;
+    font-weight: 300;
+    width: 22.5rem;
+    height:3rem;
+    border: dashed black;
+    border-radius:1rem;
 }
+
+
